@@ -5,8 +5,7 @@ game.py - all the program's logic functions.
 board.py - containing the board and the function that prints the board.
 
 inside main.py, main() will run in a while loop till the game finish.
-going to call all the functions and maintain the counter (to know if it's a draw...),
-and the variables that tell whose turn is it.
+going to call all the functions, and the variables that tell whose turn is it.
 
 game.py containing a list of tuples with indexes, to know if there is a winner,
 and also the following functions:
