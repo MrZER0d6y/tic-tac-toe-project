@@ -50,7 +50,7 @@ def mark_cell(board, player_turn, choice):
 
 def next_turn(player_turn):
     if player_turn == "X":
-        return "Y"
+        return "O"
     return "X"
 
 def draw(board, print_board):
